@@ -1,33 +1,48 @@
-# Chapter 1
+---
+title: week 1
+---
 
-* [Notes](notes)
-* Problems
-  * [Hello](https://docs.cs50.net/2019/ap/problems/hello/hello.html)
-  * [Fahrenheit](https://docs.cs50.net/2019/ap/problems/fahrenheit/fahrenheit.html)
-  * [ISBN](https://docs.cs50.net/2019/ap/problems/isbn/isbn.html)
-  * [Pennies](https://docs.cs50.net/2019/ap/problems/pennies/pennies.html)
-  * [Cash](https://docs.cs50.net/2019/ap/problems/cash/cash.html) or [Credit](https://docs.cs50.net/2019/ap/problems/credit/credit.html)
-  * [Mario(less comfy)](https://docs.cs50.net/2019/ap/problems/mario/less/mario.html) or [Mario(more comfy)](https://docs.cs50.net/2019/ap/problems/mario/more/mario.html)
-* Shorts
-  * [Command Line](https://www.youtube.com/watch?v=lnYKOnz9ln8)
-  * [Conditional Statements](https://www.youtube.com/watch?v=FqUeHzvci10)
-  * [Data Types](https://www.youtube.com/watch?v=q6K8KMqt8wQ)
-  * [Loops](https://www.youtube.com/watch?v=QOvo-xFL9II)
-  * [Operators](https://www.youtube.com/watch?v=7apBtlEkJzk)
-* [Slides](https://cdn.cs50.net/2018/fall/lectures/1/lecture1.pdf)
-* Source Code
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/1/src1/)
-  * [PDF](https://cdn.cs50.net/2018/fall/lectures/1/src1.pdf)
-  * [Sandbox](https://sandbox.cs50.io/fbe800b2-4c6f-4bf4-8642-a853ee08ce5d)
-  * [ZIP](https://cdn.cs50.net/2018/fall/lectures/1/src1.zip)
-* [Video](https://video.cs50.net/2018/fall/lectures/1)
-* Reference Sheets
-  * [Boolean Expressions](https://ap.cs50.school/assets/pdfs/boolean_expressions.pdf)
-  * [Data Types](https://ap.cs50.school/assets/pdfs/data_types.pdf)
-  * [Functions](https://ap.cs50.school/assets/pdfs/functions.pdf)
-  * [Libraries](https://ap.cs50.school/assets/pdfs/libraries.pdf)
-  * [Loops](https://ap.cs50.school/assets/pdfs/loops.pdf)
-  * [Operators](https://ap.cs50.school/assets/pdfs/operators.pdf)
-  * [Principles of Good Design](https://ap.cs50.school/assets/pdfs/principles_of_good_design.pdf)
-  * [Syntax](https://ap.cs50.school/assets/pdfs/syntax.pdf)
-  * [Variables](https://ap.cs50.school/assets/pdfs/variables.pdf)
+# Week 1
+
+<iframe src="https://www.youtube.com/embed/e9Eds2Rc_x8"></iframe>
+
+# Lecture 1
+
+    1.C
+    2.hello, world
+    3.Compilers
+    4.String
+    5.Scratch blocks in C
+    6.Types, formats, operators
+    7.Memory, imprecision, and overflow
+
+**Try it in Arabic**
+
+[CS50 2019 Lecture 1 C مترجم بالعربي](https://www.youtube.com/embed/jXKaybgEISI)
+
+**Preview**
+
+[Week1 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
+
+# Proplem set 1
+   For this problem set, you’ll use CS50 IDE, a cloud-based programming environment. This environment is similar to CS50 Sandbox and CS50 Lab, the programming environments that David discussed during lecture.
+
+**What to Do**
+
+   1. Go to [ide.cs50.io](https://ide.cs50.io/) and click “Sign in with GitHub” to access your CS50 IDE.
+   2. Submit [Hello](https://cs50.harvard.edu/x/2020/psets/1/hello)
+   3. Submit one of: 
+       .[this version of Mario](https://cs50.harvard.edu/x/2020/psets/1/mario/less) if feeling less comfortable
+       .[this version of Mario](https://cs50.harvard.edu/x/2020/psets/1/mario/more) if feeling more comfortable
+   4. Submit one of: 
+       .[Cash](https://cs50.harvard.edu/x/2020/psets/1/cash) if feeling less comfortable
+       .[Credit](https://cs50.harvard.edu/x/2020/psets/1/credit) if feeling more comfortable
+        
+If you submit both Marios, we’ll record the higher of your two scores. If you submit both of Cash and Credit, we’ll record the higher of your two scores.
+
+
+**Try it in Arabic**
+
+* [Week 1 - Pset 1 - Introduction and Hello](https://www.youtube.com/embed/PlXUYylfwKg)
+* [Week 1 - Pset 1 - Mario](https://www.youtube.com/embed/V7C7LEJ_TrI)
+* [Week 1 - Pset 1 - Cash and Credit](https://www.youtube.com/embed/ob7b-IfmPDc)

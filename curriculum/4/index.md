@@ -1,18 +1,39 @@
-# Chapter 4
+---
+title: week 4
+---
+# Week 4
+<iframe src="https://www.youtube.com/embed/cF6YkH-8vFk"></iframe>
 
-* Problem
-  * [Speller (hash table)](https://docs.cs50.net/2019/ap/problems/speller/hashtable/speller.html) of [Speller (trie)](https://docs.cs50.net/2019/ap/problems/speller/trie/speller.html)
-* [Notes](notes)
-* Shorts
-  * [Custom data types](https://www.youtube.com/watch?v=crxfzK3Oc9M)
-  * [Data structures](https://www.youtube.com/watch?v=Ryz5KK5G8Sc)
-  * [Hash tables](https://www.youtube.com/watch?v=a97eCq6EN88)
-  * [Linked lists](https://www.youtube.com/watch?v=xdkSNe43iNM)
-  * [Tries](https://www.youtube.com/watch?v=MTxh0kx1Vvs)
-* [Slides](https://cdn.cs50.net/2018/fall/lectures/4/lecture4.pdf)
-* Source Code
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/4/src4/)
-  * [PDF](https://cdn.cs50.net/2018/fall/lectures/4/src4.pdf)
-  * [Sandbox](https://sandbox.cs50.io/86b99f4c-deb6-4a5b-8d1f-75d5dbf9a35d)
-  * [ZIP](https://cdn.cs50.net/2018/fall/lectures/4/src4.zip)
-* [Video](https://video.cs50.net/2018/fall/lectures/4)
+# Lecture 4
+
+    1. Hexadecimal
+    2. Pointers
+    3. string
+    4. Compare and copy
+    5. valgrind
+    6. Swap
+    7. Memory layout
+    8. get_int
+    9. Files
+    10. JPEG
+
+
+**Try it in Arabic**
+
+[CS50 2019 Lecture 4 Memory مترجم بالعربي](https://www.youtube.com/embed/hI67W_nFjxw)
+
+**Preview**
+
+[Week4 Review - Code_ Sudan Program](https://www.youtube.com/embed/rNWRKQKPN4U)
+
+# Proplem set 4
+
+**What to Do**
+
+   1. Submit one of: 
+        * [this version of Filter](https://cs50.harvard.edu/x/2020/psets/4/filter/less) if feeling less comfortable
+        * [this version of Filter](https://cs50.harvard.edu/x/2020/psets/4/filter/more) if feeling more comfortable
+   2. Submit [Recover](https://cs50.harvard.edu/x/2020/psets/4/recover)
+        
+If you submit both versions of Filter, we’ll record the higher of your two scores.
+        

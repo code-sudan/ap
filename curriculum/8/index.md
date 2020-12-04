@@ -1,22 +1,33 @@
-# Chapter 8
+---
+title: week 8
+---
+# Week 8
+<iframe src="https://www.youtube.com/embed/4IrUAqYKjIA"></iframe>
 
-* [About Quiz](https://docs.cs50.net/2018/fall/quiz/about.html)
-* [Notes](notes)
-* Problem
-  * [Finance](https://docs.cs50.net/2019/ap/problems/finance/finance.html)
-* Shorts
-  * [Ajax](https://www.youtube.com/watch?v=dQcBs4S-wEQ)
-  * [Flask](https://www.youtube.com/watch?v=X0dwkDh8kwA)
-  * [SQL](https://www.youtube.com/watch?v=AywtnUjQ6X4)
-* [Slides](https://cdn.cs50.net/2018/fall/lectures/8/lecture8.pdf)
-* Source Code
-  * [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1lOcpedVe1TeT5cByAlkBnN0vU-TkU6XQJDeplWktY7k/edit?usp=sharing)
-  * [Index](https://cdn.cs50.net/2018/fall/lectures/8/src8/)
-  * [PDF](https://cdn.cs50.net/2018/fall/lectures/8/src8.pdf)
-  * [Sandbox](https://sandbox.cs50.io/5cb25506-2dda-44df-a5b1-c11e17e76915)
-  * [ZIP](https://cdn.cs50.net/2018/fall/lectures/8/src8.zip)
-* [Video](https://video.cs50.net/2018/fall/lectures/8)
-* Reference Sheets
-  * [Ajax](https://ap.cs50.school/assets/pdfs/ajax.pdf)
-  * [MVC](https://ap.cs50.school/assets/pdfs/mvc.pdf)
-  * [Python for Web Programming](https://ap.cs50.school/assets/pdfs/python_for_web_programming.pdf)
+# Lecture 8
+    1. A Look Back
+    2. Privacy
+       
+
+**Try it in Arabic**
+
+[CS50 2019 Lecture 8 مترجم بالعربي](https://www.youtube.com/embed/kIwEAUzznzo)
+
+**Preview**
+
+[Code_ Sudan Program CS50 Week8 Review](https://www.youtube.com/embed/acUhrGTzixI)
+
+# Proplem set 8
+
+**What to Do**
+    
+ Submit one of:
+
+   1. [Games](https://cs50.harvard.edu/x/2020/tracks/games/)
+   2. Mobile
+       * [Android](https://cs50.harvard.edu/x/2020/tracks/mobile/android/)
+       * [iOS](https://cs50.harvard.edu/x/2020/tracks/mobile/ios/)
+   3. [Web](https://cs50.harvard.edu/x/2020/tracks/web/)
+
+
+        
