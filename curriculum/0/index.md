@@ -4,7 +4,8 @@ title: Week 0
 
 # Week 0
 
-<iframe src="https://youtu.be/5azaK2cBKGw"></iframe> 
+<iframe src="https://www.youtube.com/embed/5azaK2cBKGw"></iframe> 
+
 
 * Problem
   * [Scratch](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html)
@@ -48,3 +49,6 @@ title: Week 0
 **Try it in Arabic**
 
 [Problem Set 0 In Arabic](https://www.youtube.com/embed/3Occxs_Uc-w)
+
+<iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe>
+
