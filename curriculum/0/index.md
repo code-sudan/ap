@@ -1,18 +1,10 @@
 ---
-title: Week0
+title: Week 0
 ---
 
-# Week0
+# Week 0
 
-<!-- **[Video](https://video.cs50.net/2018/fall/lectures/0)** -->
-
-<!-- {% video https://video.cs50.io/jjqgP9dpD1k %} -->
-
-<iframe src="https://youtu.be/5azaK2cBKGw"></iframe>
-
-<!-- //<iframe src="https://video.cs50.io/jjqgP9dpD1k"></iframe> -->
-
-<!-- <iframe width="963" height="484" src="https://www.youtube.com/embed/jjqgP9dpD1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<iframe src="https://youtu.be/5azaK2cBKGw"></iframe> 
 
 * Problem
   * [Scratch](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html)
@@ -42,13 +34,10 @@ title: Week0
 
 [CS50 2019 Lecture 0 Computational Thinking, Scratch مترجم](https://www.youtube.com/embed/tC8z4RLWtFI)
 
-<iframe src="https://youtu.be/tC8z4RLWtFI"></iframe>
-
 **Preview**
 
 [Problem Set 0, 1, 2 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
 
-<iframe src="https://youtu.be/F-qbaeSJHAE"></iframe>
 # Proplem set 0
 
 **What to Do**
@@ -59,5 +48,3 @@ title: Week0
 **Try it in Arabic**
 
 [Problem Set 0 In Arabic](https://www.youtube.com/embed/3Occxs_Uc-w)
-
-<iframe src="https://youtu.be/3Occxs_Uc-w"></iframe>
