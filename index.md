@@ -1,20 +1,8 @@
-<!--
- ---
-title: false
----
-
-# Hello, world!
-
-This is CS50 AP, Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for students in high school, which satisfies the College Board's new AP CS Principles curriculum framework.
-
-<iframe src="https://www.youtube.com/embed/tZxLMIk_SaY?playlist=GAB6Gm7pTTA"></iframe> -->
-
-
-# Code_Sudan
+# Code Sudan
 
 # Welcome to Foundation of Programming and Web Developement Program !
 
-Here is a video that explain what will you get after the program:
+## Here is a video that explain what will you get after the program:
 
 <iframe src="https://www.youtube.com/embed/GJvt4uuZl30"></iframe>
 
