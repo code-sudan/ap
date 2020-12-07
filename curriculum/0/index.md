@@ -20,3 +20,5 @@ title: Week 0
   - <a href="https://scratch.mit.edu/studios/25128634/">Studio</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/0/src0.zip">Zip</a>
 - Problem Set 0
+
+<iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe>
