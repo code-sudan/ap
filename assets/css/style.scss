@@ -5,10 +5,12 @@
 aside{
     background-color: #000;}
 .box{
+    border: solid;
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
- 
+    width: 450px;
+     height: 300 ;
 }
 
 // div {
