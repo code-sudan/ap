@@ -22,3 +22,12 @@ title: Week 0
 - Problem Set 0
 
 <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe>
+
+
+<table class="rwd-table">
+  <tr>
+    <th>
+      <iframe width="1366" height="625" src="https://www.youtube.com/embed/tC8z4RLWtFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </th>
+    <th><iframe width="1366" height="625" src="https://www.youtube.com/embed/tC8z4RLWtFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></th>
+   
