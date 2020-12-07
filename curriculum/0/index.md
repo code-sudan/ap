@@ -21,24 +21,18 @@ title: Week 0
   - <a href="https://cdn.cs50.net/2019/fall/lectures/0/src0.zip">Zip</a>
 - Problem Set 0
 
-<iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe>
+<!-- <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe> -->
 
-
-<table class="rwd-table">
-  <tr>
-    <th>
-      <iframe width="1366" height="625" src="https://www.youtube.com/embed/tC8z4RLWtFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </th>
-    <th><iframe width="1366" height="625" src="https://www.youtube.com/embed/tC8z4RLWtFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></th>
-
-
-   # Lecture 3
+   ## Lecture 3
    <div class="box" >
-   <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w">
-   <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w">
-   <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w">
-      </div>
-    <div class="box"> <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe> </div>
+   <div>  <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div>
+   <div><iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div>
+   <div> <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div>
+   </div>
+
+
+------------------------------------------------
+    <div class="box"><iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe> </div>
      <div class="box"> <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe> </div>
 
    
