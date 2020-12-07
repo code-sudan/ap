@@ -22,5 +22,7 @@ title: Week 0
 - Problem Set 0
 ## Lecture 3
    
-   <div class="box" >  <iframe src=src="https://www.youtube.com/embed/JsPfEBT_8tQ?list=PLdmE6s5HCPZ8adsIUqOmr_CfsQZglu8Vb"></div>
+   <div class="box" >  <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div>
    <div class="box"><iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div>
+
+  
