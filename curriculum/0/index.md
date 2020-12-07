@@ -23,6 +23,9 @@ title: Week 0
 ## Lecture 3
    
    <div class="box" >  <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div>
-   <div class="box"><iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div>
+   <!-- <div class="box"><iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div> -->
+   <div> <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></div>
+   
+
 
   
