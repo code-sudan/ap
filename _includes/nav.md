@@ -29,12 +29,14 @@ Communities
 
 ***
 
-[Students Feedback](https://mohamed-faroug.github.io/ap/curriculum/feedback/)
-
+* [Students Feedback](https://mohamed-faroug.github.io/ap/curriculum/feedback/)
+* [CS50 Certficate ](https://mohamed-faroug.github.io/ap/curriculum/cs50Certficate/)
 
 
 ***
 
 [Welcome](https://code-sudan.github.io/home/)<br />[Usful Links](https://mohamed-faroug.github.io/ap/curriculum/usefullinks/)
+
+
 
 
