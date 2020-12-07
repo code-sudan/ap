@@ -11,13 +11,26 @@ aside{
 //     height: 300 ;
 // }
 
-.box{
+// .box{
  
+//      display:inline-block;
+//      border: border-box;
+//      width: 50%;
+//      box-sizing: border-box;
+//      display: table;    
+//      height: 300px;  
+//      float: left;
+// }
+
+
+
+.box{
+    float: left;
      display:inline-block;
-     border: border-box;
-     width: 50%;
-     box-sizing: border-box;
-     display: table;    
-     height: 300px;  
-     float: left;
+    border: border-box;
+    width: 50%;
+   box-sizing: border-box;
+    display: table;    height: 300px;  
+      padding: 10px;
+    
 }
