@@ -1,10 +1,3 @@
-<!-- # [CS50 AP]({{ "/" | relative_url }})
-
-Welcome to Foundation of Programming 
-and Web Developement Program !\\
-2019–2020 -->
-
-
 <a href="https://mohamed-faroug.github.io/ap/"><img src="https://i.ibb.co/6nghkNJ/Code-Sudan-Logos-2-removebg-previesdfasdw.png" alt="Code-Sudan-Logos-2-removebg-previesdfasdw" border="0"></a>
 
 <p>بنمسكك درب البرمجة صاح</p>

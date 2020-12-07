@@ -28,6 +28,3 @@ title: week 1
 <div class="box" >  <iframe src="https://www.youtube.com/embed/PlXUYylfwKg"></iframe></div>
 <div class="box" >   <iframe src="https://www.youtube.com/embed/V7C7LEJ_TrI"></iframe></div>
 <div class="box" >   <iframe src="https://www.youtube.com/embed/ob7b-IfmPDc"></iframe></div>
-
-\
-  

@@ -1,6 +1,6 @@
 <main class="col-md" style="margin-bottom: 1484px; margin-top: 0px;">
 
-                    <a data-id="" id="scratch" style="top: 0px;"></a><h1><a data-id="" href="#scratch">Scratch</a></h1>
+  <a data-id="" id="scratch" style="top: 0px;"></a><h1><a data-id="" href="#scratch">Scratch</a></h1>
 
 <p>It’s time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch any project of your choice, be it an interactive story, game, animation, or anything else, subject only to the following requirements:</p>
 
@@ -60,4 +60,4 @@
 <p>To view your current progress in the course, visit the course gradebook at <a href="https://cs50.me/cs50x">cs50.me/cs50x</a>!</p>
 
 
-                </main>
+ </main>

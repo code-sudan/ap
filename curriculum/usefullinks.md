@@ -24,8 +24,10 @@ title: Useful Links
 
 
 
-**[Patch3 Invitation for Google Calendar](https://calendar.google.com/calendar/u/0?cid=OGY4ZXRpNjY4NWw2OGZ0OWpyOWphbHFqYzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)**
+**[Code_Sudan GadUniv Invitation for Google Calendar](https://calendar.google.com/calendar/u/0/r?cid=Y19iYjh0YjluYWJqYmhvM2l1MWNhOXVycDQ5a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)**
 
-**[Patch3 Attendance Sheet](https://docs.google.com/spreadsheets/d/1ZVj6vRhfdZOYzdmRzdXCGhtm8gyECqAI1Icy5abM3Uw/edit?usp=sharing)**
+**[Code_Sudan GadUniv  Attendance Sheet](https://docs.google.com/spreadsheets/d/1ZVj6vRhfdZOYzdmRzdXCGhtm8gyECqAI1Icy5abM3Uw/edit?usp=sharing)**
 
-**[Patch3 YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ_-EOIGPSmkrtjka_ozd7wr)**
+**[Code_Sudan GadUniv YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ_-EOIGPSmkrtjka_ozd7wr)**
+
+Code_Sudan GadUniv
