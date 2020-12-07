@@ -4,10 +4,20 @@
 @import "{{ site.theme }}";
 aside{
     background-color: #000;}
-.box{
-    border: solid;
-    display:inline-block;
-    width: 450px;
-    height: 300 ;
-}
+// .box{
+//     border: solid;
+//     display:inline-block;
+//     width: 450px;
+//     height: 300 ;
+// }
 
+.box{
+ 
+     display:inline-block;
+     border: border-box;
+     width: 50%;
+     box-sizing: border-box;
+     display: table;    
+     height: 300px;  
+    
+}
