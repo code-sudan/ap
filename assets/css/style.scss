@@ -5,6 +5,8 @@
 aside{
     background-color: #000;}
 .box{
-    border: 20px solid red;
-    display: inline-block;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ 
 }
