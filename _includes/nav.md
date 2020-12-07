@@ -29,28 +29,12 @@ Communities
 
 ***
 
-[Students Feedback](https://code-sudan.github.io/home/feedback/)
+[Students Feedback](https://mohamed-faroug.github.io/ap/curriculum/feedback/)
 
-***
-
-
-* [CS50 IDE](https://ide.cs50.io/)
-* [CS50 Programmer's Manual](https://man.cs50.io/)
-
-***
-
-* [Status Page](https://cs50.statuspage.io/)
-* [Style Guide](https://cs50.readthedocs.io/style/c/)
-
-***
-
-* [**Curriculum**]({{ "/curriculum" | relative_url }})
-* [Tools]({{ "/tools" | relative_url }})
-* [Syllabus]({{"/syllabus" | relative_url }})
 
 
 ***
 
-[Welcome](https://code-sudan.github.io/home/)<br />[Usful Links](https://code-sudan.github.io/home/usefullinks/)
+[Welcome](https://code-sudan.github.io/home/)<br />[Usful Links](https://mohamed-faroug.github.io/ap/curriculum/usefullinks/)
 
 
