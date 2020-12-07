@@ -30,4 +30,9 @@ title: Week 0
       <iframe width="1366" height="625" src="https://www.youtube.com/embed/tC8z4RLWtFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </th>
     <th><iframe width="1366" height="625" src="https://www.youtube.com/embed/tC8z4RLWtFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></th>
-   
+
+
+   # Lecture 3
+    <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe> 
+    <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe>
+  <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe> <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe>
