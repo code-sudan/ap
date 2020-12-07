@@ -6,7 +6,7 @@ title: Week 0
 
 <iframe src="https://www.youtube.com/embed/5azaK2cBKGw"></iframe> 
 
-{% spoiler "Solution" %}
+
 * Problem
   * [Scratch](https://docs.cs50.net/2019/ap/problems/scratch/scratch.html)
 * [Slides](https://cdn.cs50.net/2018/fall/lectures/0/lecture0.pdf)
@@ -20,7 +20,7 @@ title: Week 0
   * [Binary](https://ap.cs50.school/assets/pdfs/binary.pdf)
   * [Pseudocode](https://ap.cs50.school/assets/pdfs/pseudocode.pdf)
   * [Scratch](https://ap.cs50.school/assets/pdfs/scratch.pdf)
-{% endspoiler %}
+
 # Lecture0
 
     1.Welcome
