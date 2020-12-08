@@ -1,3 +1,7 @@
+---
+title: week 4
+---
+
 # Week 4
 
 <iframe src="https://www.youtube.com/embed/cF6YkH-8vFk"></iframe>
@@ -9,7 +13,7 @@
   - Preview
      [Week4 Review - Code_ Sudan Program](https://www.youtube.com/embed/rNWRKQKPN4U)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/1BPOm4VNOmlOLKzwOHPYR3FXEXLiJbOW3MSKdp1wMNnk/edit?usp=sharing">Google Slides</a>
+  - <a href="https://docs.google.com/presentation/d/15retFlVW_bH8MqEQHlcDQiFemMcRGUpHWn7VWQ4ftaE/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/4/lecture4.pdf">PDF</a>
 - Source Code
   - <a href="https://cdn.cs50.net/2019/fall/lectures/4/src4/">Index</a>

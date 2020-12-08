@@ -1,28 +1,30 @@
 ---
 title: week 5
 ---
+
 # Week 5
+
 <iframe src="https://www.youtube.com/embed/4IrUAqYKjIA"></iframe>
 
-# Lecture 5
 
-    1. Pointers
-    2. Resizing arrays
-    4. Data structures
-    5. Linked Lists
-    6. More data structures
-    
-**Try it in Arabic**
+- Lecture
+  - Try it in Arabic
+    [CS50 2019 Lecture 5 Data Structures مترجم بالعربي](https://www.youtube.com/embed/ZntW_SLD4-I)
+  - Preview
+     [Week5 Review - Code_ Sudan Program](https://www.youtube.com/embed/4IvJVvL-5XY)
+- Slides
+  - <a href="https://docs.google.com/presentation/d/15retFlVW_bH8MqEQHlcDQiFemMcRGUpHWn7VWQ4ftaE/edit?usp=sharing">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/5/lecture5.pdf">PDF</a>
+- Source Code
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/5/src5/">Index</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/5/src5.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/5/src5.zip">Zip</a>
 
-[CS50 2019 Lecture 5 Data Structures مترجم بالعربي](https://www.youtube.com/embed/ZntW_SLD4-I)
+## Problem Set 5
 
-**Preview**
+[Speller](https://lab.cs50.io/code-sudan/labs/main/pset5/Speller/)
 
-[Week5 Review - Code_ Sudan Program](https://www.youtube.com/embed/4IvJVvL-5XY)
 
-# Proplem set 5
-
-**What to Do**
-
-   1. Submit [Speller](https://cs50.harvard.edu/x/2020/psets/5/speller)
-        
+## Problem Set 4 Review 
+<div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
+<div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
