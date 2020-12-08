@@ -22,9 +22,11 @@ title: week 1
 - [Problem Set 0](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)
 ## Problem Set 0
 [Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)
+
 [Mario](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1//mario/less)
+
 [Cash](https://lab.cs50.io/Mohamed-Faroug/lab/main//pset1/cash)
-## Lecture 3
-<div class="box" >  <iframe src="https://www.youtube.com/embed/PlXUYylfwKg"></iframe></div>
+## Problem Set 0 Review 
+<div class="box" >Hello Review  <iframe src="https://www.youtube.com/embed/PlXUYylfwKg"></iframe></div>
 <div class="box" >   <iframe src="https://www.youtube.com/embed/V7C7LEJ_TrI"></iframe></div>
 <div class="box" >   <iframe src="https://www.youtube.com/embed/ob7b-IfmPDc"></iframe></div>
