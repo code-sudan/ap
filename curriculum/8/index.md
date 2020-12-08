@@ -1,33 +1,29 @@
 ---
 title: week 8
 ---
+
 # Week 8
+
 <iframe src="https://www.youtube.com/embed/4IrUAqYKjIA"></iframe>
 
-# Lecture 8
-    1. A Look Back
-    2. Privacy
-       
 
-**Try it in Arabic**
+- Lecture
+  - Try it in Arabic
+    [CS50 2019 Lecture 8 مترجم بالعربي](https://www.youtube.com/embed/kIwEAUzznzo)
+  - Preview
+    [Code_ Sudan Program CS50 Week8 Review](https://www.youtube.com/embed/acUhrGTzixI)
+- Slides
+  - <a href="https://docs.google.com/presentation/d/15retFlVW_bH8MqEQHlcDQiFemMcRGUpHWn7VWQ4ftaE/edit?usp=sharing">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/lecture8.pdf">PDF</a>
+- Source Code
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/src8/">Index</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/src8.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/src8.zip">Zip</a>
 
-[CS50 2019 Lecture 8 مترجم بالعربي](https://www.youtube.com/embed/kIwEAUzznzo)
+## Problem Set 8
 
-**Preview**
+[Web](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset7/Movies)
 
-[Code_ Sudan Program CS50 Week8 Review](https://www.youtube.com/embed/acUhrGTzixI)
-
-# Proplem set 8
-
-**What to Do**
-    
- Submit one of:
-
-   1. [Games](https://cs50.harvard.edu/x/2020/tracks/games/)
-   2. Mobile
-       * [Android](https://cs50.harvard.edu/x/2020/tracks/mobile/android/)
-       * [iOS](https://cs50.harvard.edu/x/2020/tracks/mobile/ios/)
-   3. [Web](https://cs50.harvard.edu/x/2020/tracks/web/)
-
-
-        
+## Problem Set 8 Review 
+<div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
+<div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>

@@ -1,30 +1,34 @@
 ---
 title: week 7
 ---
+
 # Week 7
+
 <iframe src="https://www.youtube.com/embed/4IrUAqYKjIA"></iframe>
 
-# Lecture 7
-    1. Spreadsheets
-    2. SQL
-    3. IMDb
-    4. Multiple tables
-    5. Problems
+
+- Lecture
+  - Try it in Arabic
+    [CS50 2019 Lecture 7 SQL مترجم بالعربي](https://www.youtube.com/embed/e1yDLQDWo-I)
+  - Preview
+    [Week7 Review - Code_ Sudan Program](https://www.youtube.com/embed/CsUbvG0_On8)
+- Slides
+  - <a href="https://docs.google.com/presentation/d/15retFlVW_bH8MqEQHlcDQiFemMcRGUpHWn7VWQ4ftaE/edit?usp=sharing">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/7/lecture7.pdf">PDF</a>
+- Source Code
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/7/src7/">Index</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/7/src7.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/7/src7.zip">Zip</a>
+
+## Problem Set 7
+
+[Movies](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset7/Movies)
+
+[Houses](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset7/Houses)
 
 
-**Try it in Arabic**
 
-[CS50 2019 Lecture 7 SQL مترجم بالعربي](https://www.youtube.com/embed/e1yDLQDWo-I)
 
-**Preview**
-
-[Week7 Review - Code_ Sudan Program](https://www.youtube.com/embed/CsUbvG0_On8)
-
-# Proplem set 7
-
-**What to Do**
-    
-   1. Submit [Movies](https://cs50.harvard.edu/x/2020/psets/7/movies)
-   2. Submit [Houses](https://cs50.harvard.edu/x/2020/psets/7/houses)
-
-        
+## Problem Set 4 Review 
+<div class="box" >Speller Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
+<div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
