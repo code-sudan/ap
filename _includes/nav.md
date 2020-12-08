@@ -12,8 +12,8 @@
 
 ***
 
-* [Graduates Projects](https://code-sudan.github.io/home/graduates/) 🧑‍🎓
-* [Code_Sudan Team](https://code-sudan.github.io/home/team/)
+* [Graduates Projects](ttps://mohamed-faroug.github.io/ap/graduates/) 🧑‍🎓
+* [Code_Sudan Team](ttps://mohamed-faroug.github.io/ap/team/)
 
 
 ***
@@ -35,7 +35,7 @@ Communities
 
 ***
 
-[Welcome](https://code-sudan.github.io/home/)<br />[Usful Links](https://mohamed-faroug.github.io/ap/curriculum/usefullinks/)
+[Usful Links](https://mohamed-faroug.github.io/ap/curriculum/usefullinks/)
 
 
 
