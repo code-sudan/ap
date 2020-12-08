@@ -20,7 +20,7 @@ title: week 1
   - <a href="https://scratch.mit.edu/studios/25128634/">Studio</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1.zip">Zip</a>
 
-## Problem Set 0
+## Problem Set 1
 
 [Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)
 
@@ -28,7 +28,7 @@ title: week 1
 
 [Cash](https://lab.cs50.io/Mohamed-Faroug/lab/main//pset1/cash)
 
-## Problem Set 0 Review 
+## Problem Set 1 Review 
 <div class="box" >Hello Review  <iframe src="https://www.youtube.com/embed/PlXUYylfwKg"></iframe></div>
-<div class="box" > Mario Review <iframe src="https://www.youtube.com/embed/V7C7LEJ_TrI"></iframe></div>
+<div class="box" >Mario Review <iframe src="https://www.youtube.com/embed/V7C7LEJ_TrI"></iframe></div>
 <div class="box" >Cash Review  <iframe src="https://www.youtube.com/embed/ob7b-IfmPDc"></iframe></div>

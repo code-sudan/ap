@@ -13,19 +13,20 @@ title: week 2
   - Preview
      [Week2 Review - Code_ Sudan Program](https://www.youtube.com/embed/F-qbaeSJHAE)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/191XW0DHWlW6WmAhYuFUYnZKUlDx0N4u4Fp81AeW-uNs/edit?usp=sharing">Google Slides</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/1/lecture1.pdf">PDF</a>
+  - <a href="https://docs.google.com/presentation/d/1BPOm4VNOmlOLKzwOHPYR3FXEXLiJbOW3MSKdp1wMNnk/edit?usp=sharing">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/2/lecture2.pdf">PDF</a>
 - Source Code
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1/">Index</a>
-  - <a href="https://scratch.mit.edu/studios/25128634/">Studio</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1.zip">Zip</a>
-- [Problem Set 0](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)
-## Problem Set 0
-[Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/2/src2/">Index</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/2/src2.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/2/src2.zip">Zip</a>
 
-[Mario](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1//mario/less)
+## Problem Set 2
 
-[Cash](https://lab.cs50.io/Mohamed-Faroug/lab/main//pset1/cash)
-## Problem Set 0 Review 
-<div class="box" >sizer Review  <iframe src="https://www.youtube.com/embed/Eqx6_oVKADE"></iframe></div>
-<div class="box" >   <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
+[Readability](https://lab.cs50.io/code-sudan/labs/main/pset2/Readability/)
+
+[caesar](https://lab.cs50.io/code-sudan/labs/main/pset2/caesar/)
+
+
+## Problem Set 2 Review 
+<div class="box" >Readability Review  <iframe src="https://www.youtube.com/embed/Eqx6_oVKADE"></iframe></div>
+<div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
