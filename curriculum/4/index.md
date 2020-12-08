@@ -22,9 +22,10 @@ title: week 4
 
 ## Problem Set 4
 
-[Plurality](https://lab.cs50.io/code-sudan/labs/main/pset4/Filter/)
-
-
+[Filter](https://lab.cs50.io/code-sudan/labs/main/pset4/Filter/)
+[Recover](https://lab.cs50.io/code-sudan/labs/main/pset4/Recover/)
+Recover
 ## Problem Set 4 Review 
-<div class="box" >Plurality Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
-<div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
+<div class="box" >Pset4  Review  <iframe src="https://www.youtube.com/embed/t6kxdGiH1Ys"></iframe></div>
+<div class="box" >Filter less  Review  <iframe src="https://www.youtube.com/embed/WTKXLRzXIfE"></iframe></div>
+

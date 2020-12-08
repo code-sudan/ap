@@ -30,3 +30,6 @@ title: week 2
 ## Problem Set 2 Review 
 <div class="box" >Readability Review  <iframe src="https://www.youtube.com/embed/Eqx6_oVKADE"></iframe></div>
 <div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
+<div class="box" >Pset2 Review  <iframe src="https://www.youtube.com/embed/lRv8yGsIODU"></iframe></div>
+
+

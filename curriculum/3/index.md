@@ -23,8 +23,12 @@ title: week 3
 ## Problem Set 3
 
 [Plurality](https://lab.cs50.io/code-sudan/labs/main/pset3/Plurality/)
+[RunOff](https://lab.cs50.io/code-sudan/labs/main/pset3/runoff/)
 
 
 ## Problem Set 3 Review 
-<div class="box" >Plurality Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
-<div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
+<div class="box" >Pset 3 Review  <iframe src="https://www.youtube.com/embed/pZgUkL2Aohs"></iframe></div>
+<div class="box" >Plurality  Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
+<div class="box" >RunOff Review  <iframe src="https://www.youtube.com/embed/DVWX4qcCvNc"></iframe></div>
+
+
