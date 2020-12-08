@@ -1,5 +1,7 @@
 ***
+[Usful Links](https://mohamed-faroug.github.io/ap/curriculum/usefullinks/)
 
+***
 * [Week 0](https://mohamed-faroug.github.io/ap/curriculum/0/) Scratch 😺
 * [Week 1](https://mohamed-faroug.github.io/ap/curriculum/1/) C
 * [Week 2](https://mohamed-faroug.github.io/ap/curriculum/2/) Arrays
@@ -10,8 +12,8 @@
 * [Week 7](https://mohamed-faroug.github.io/ap/curriculum/7/) SQL
 * [Week 8](https://mohamed-faroug.github.io/ap/curriculum/8/) Information 📚
 
-***
 
+***
 * [Graduates Projects](ttps://mohamed-faroug.github.io/ap/graduates/) 🧑‍🎓
 * [Code_Sudan Team](ttps://mohamed-faroug.github.io/ap/team/)
 
@@ -33,9 +35,6 @@ Communities
 * [CS50 Certficate ](https://mohamed-faroug.github.io/ap/curriculum/cs50Certficate/)
 
 
-***
-
-[Usful Links](https://mohamed-faroug.github.io/ap/curriculum/usefullinks/)
 
 
 
