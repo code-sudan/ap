@@ -7,15 +7,14 @@
 <iframe src="https://www.youtube.com/embed/GJvt4uuZl30"></iframe>
 
 
+- What will you get after you finish the program 
 
-**What will you get after you finish the program**
-
-  1. Understanding of programming and how to solve companies problems or your personal problems using programming.
-  2. Practice writing code in one of the most famous language in Sudan and gloval market (JavaScript, Python, SQL).
-  3. Have a community of peers and mentors who will help and motivate you.
-  4. Quality education from the best university in the world (Harvard University)
-  5. Certificate from Code_ Sudan and (potintially) Harvard University.
-  6. (Depend on the plan you chose) Interview with a Sudanese IT company and potiential work opportunity.
+  - Understanding of programming and how to solve companies problems or your personal problems using programming.
+  -  Practice writing code in one of the most famous language in Sudan and gloval market (JavaScript, Python, SQL).
+  -  Have a community of peers and mentors who will help and motivate you.
+  -  Quality education from the best university in the world (Harvard University)
+  -  Certificate from Code_ Sudan and (potintially) Harvard University.
+  -  (Depend on the plan you chose) Interview with a Sudanese IT company and potiential work opportunity.
   
   
   
