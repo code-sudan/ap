@@ -4,6 +4,8 @@ title: Useful Links
 
 # Useful links and reference you need in the program
 
+**Download opera**
+* [For Windows](https://www.opera.com/computer/thanks?ni=stable&os=windows)
 
 **[CS50 online course on edX](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/)**
 
@@ -30,4 +32,3 @@ title: Useful Links
 
 **[Code_Sudan GadUniv YouTube Playlist](https://www.youtube.com/playlist?list=PLdmE6s5HCPZ_-EOIGPSmkrtjka_ozd7wr)**
 
-Code_Sudan GadUniv

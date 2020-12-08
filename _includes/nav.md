@@ -33,7 +33,7 @@ Communities
 
 * [Students Feedback](https://mohamed-faroug.github.io/ap/curriculum/feedback/)
 * [CS50 Certficate ](https://mohamed-faroug.github.io/ap/curriculum/cs50Certficate/)
-
+* [EDX ](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
 
 
