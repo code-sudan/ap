@@ -19,14 +19,16 @@ title: week 1
   - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1/">Index</a>
   - <a href="https://scratch.mit.edu/studios/25128634/">Studio</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1.zip">Zip</a>
-- [Problem Set 0](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)
+
 ## Problem Set 0
+
 [Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)
 
 [Mario](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1//mario/less)
 
 [Cash](https://lab.cs50.io/Mohamed-Faroug/lab/main//pset1/cash)
+
 ## Problem Set 0 Review 
 <div class="box" >Hello Review  <iframe src="https://www.youtube.com/embed/PlXUYylfwKg"></iframe></div>
-<div class="box" >   <iframe src="https://www.youtube.com/embed/V7C7LEJ_TrI"></iframe></div>
-<div class="box" >   <iframe src="https://www.youtube.com/embed/ob7b-IfmPDc"></iframe></div>
+<div class="box" > Mario Review <iframe src="https://www.youtube.com/embed/V7C7LEJ_TrI"></iframe></div>
+<div class="box" >Cash Review  <iframe src="https://www.youtube.com/embed/ob7b-IfmPDc"></iframe></div>
