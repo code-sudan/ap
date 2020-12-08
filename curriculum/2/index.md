@@ -23,7 +23,7 @@ title: week 2
   - <a href="https://www.youtube.com/embed/b7-0sb-DV84" savefrom_lm_index="0" savefrom_lm="1">Functions</a>
   - <a href="https://www.youtube.com/embed/GiFbdVGjF9I" savefrom_lm_index="0" savefrom_lm="1">Variables and Scope</a>
   - <a href="https://www.youtube.com/embed/mISkNAfWl8k" savefrom_lm_index="0" savefrom_lm="1">Arrays</a>
-  -<a href="https://www.youtube.com/embed/AI6Ccfno6Pk" savefrom_lm_index="0" savefrom_lm="1">Command Line Arguments</a>
+  - <a href="https://www.youtube.com/embed/AI6Ccfno6Pk" savefrom_lm_index="0" savefrom_lm="1">Command Line Arguments</a>
    
 ## Problem Set 2
 
