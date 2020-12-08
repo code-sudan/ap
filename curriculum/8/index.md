@@ -13,8 +13,8 @@ title: week 8
   - Preview
     [Code_ Sudan Program CS50 Week8 Review](https://www.youtube.com/embed/acUhrGTzixI)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/15retFlVW_bH8MqEQHlcDQiFemMcRGUpHWn7VWQ4ftaE/edit?usp=sharing">Google Slides</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/lecture8.pdf">PDF</a>
+  - <a href="https://docs.google.com/presentation/d/1tH5qsKb9Hc276JyUOg_6EgD-TTTMUEinvZJIuD2lA3s/edit?usp=sharing">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/8/lecture8.pdf">PDF</a> 
 - Source Code
   - <a href="https://cdn.cs50.net/2019/fall/lectures/8/src8/">Index</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/8/src8.pdf">PDF</a>

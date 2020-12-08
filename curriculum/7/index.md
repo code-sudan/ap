@@ -13,7 +13,7 @@ title: week 7
   - Preview
     [Week7 Review - Code_ Sudan Program](https://www.youtube.com/embed/CsUbvG0_On8)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/15retFlVW_bH8MqEQHlcDQiFemMcRGUpHWn7VWQ4ftaE/edit?usp=sharing">Google Slides</a>
+  - <a href="https://docs.google.com/presentation/d/1Ydz-FLPOBvmJv215WckMyjhlZVnNk66h5yHhZ-yDsc4/edit?usp=sharing">Google Slides</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/7/lecture7.pdf">PDF</a>
 - Source Code
   - <a href="https://cdn.cs50.net/2019/fall/lectures/7/src7/">Index</a>
