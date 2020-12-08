@@ -20,11 +20,11 @@ title: week 3
   - <a href="https://cdn.cs50.net/2019/fall/lectures/2/src2.pdf">PDF</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/2/src2.zip">Zip</a>
 
-## Problem Set 2
+## Problem Set 3
 
 [Plurality](https://lab.cs50.io/code-sudan/labs/main/pset3/Plurality/)
 
 
-## Problem Set 2 Review 
+## Problem Set 3 Review 
 <div class="box" >Plurality Review  <iframe src="https://www.youtube.com/embed/S_3NvpLje3M"></iframe></div>
 <div class="box" >Caesar Review  <iframe src="https://www.youtube.com/embed/3BcjXzNlT0w"></iframe></div>
