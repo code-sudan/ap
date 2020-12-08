@@ -19,6 +19,11 @@ title: week 5
   - <a href="https://cdn.cs50.net/2019/fall/lectures/5/src5/">Index</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/5/src5.pdf">PDF</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/5/src5.zip">Zip</a>
+- Shorts
+  - <a href="https://www.youtube.com/watch?v=zQI3FyWm144" savefrom_lm_index="0" savefrom_lm="1">Singly-Linked Lists</a>
+  - <a href="https://www.youtube.com/watch?v=nvzVHwrrub0" savefrom_lm_index="0" savefrom_lm="1">Hash Tables</a>
+  - <a href="https://www.youtube.com/watch?v=MC-iQHFdEDI" savefrom_lm_index="0" savefrom_lm="1">Tries</a>
+  - <a href="https://www.youtube.com/watch?v=3uGchQbk7g8" savefrom_lm_index="0" savefrom_lm="1">Data Structures</a>
 
 ## Problem Set 5
 

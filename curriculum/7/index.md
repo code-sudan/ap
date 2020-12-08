@@ -19,6 +19,8 @@ title: week 7
   - <a href="https://cdn.cs50.net/2019/fall/lectures/7/src7/">Index</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/7/src7.pdf">PDF</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/7/src7.zip">Zip</a>
+- Shorts
+  - <<a href="https://www.youtube.com/watch?v=AywtnUjQ6X4" savefrom_lm_index="0" savefrom_lm="1">SQL</a>
 
 ## Problem Set 7
 

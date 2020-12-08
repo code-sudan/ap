@@ -19,7 +19,13 @@ title: week 4
   - <a href="https://cdn.cs50.net/2019/fall/lectures/4/src4/">Index</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/4/src4.pdf">PDF</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/4/src4.zip">Zip</a>
-
+- Shorts
+  - <a href="https://www.youtube.com/watch?v=u_atXp-NF6w" savefrom_lm_index="0" savefrom_lm="1">Hexadecimal</a>
+  - <a href="https://www.youtube.com/watch?v=XISnO2YhnsY" savefrom_lm_index="0" savefrom_lm="1">Pointers</a>
+  - <a href="https://www.youtube.com/watch?v=crxfzK3Oc9M" savefrom_lm_index="0" savefrom_lm="1">Defining Custom Types</a>
+  - <a href="https://www.youtube.com/watch?v=xa4ugmMDhiE" savefrom_lm_index="0" savefrom_lm="1">Dynamic Memory Allocation</a>
+  - <a href="https://www.youtube.com/watch?v=aCPkszeKRa4" savefrom_lm_index="0" savefrom_lm="1">Call Stacks</a>
+  - <a href="https://www.youtube.com/watch?v=bOF-SpEAYgk" savefrom_lm_index="0" savefrom_lm="1">File Pointers</a>
 ## Problem Set 4
 
 [Filter](https://lab.cs50.io/code-sudan/labs/main/pset4/Filter/)

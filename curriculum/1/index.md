@@ -19,7 +19,13 @@ title: week 1
   - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1/">Index</a>
   - <a href="https://scratch.mit.edu/studios/25128634/">Studio</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/1/src1.zip">Zip</a>
-
+- Shorts
+  - <a href="https://www.youtube.com/embed/q6K8KMqt8wQ" savefrom_lm_index="0" savefrom_lm="1">Data Types</a>
+  - <a href="https://www.youtube.com/embed/7apBtlEkJzk?rel=0" savefrom_lm_index="0" savefrom_lm="1">Operators</a>
+  - <a href="https://www.youtube.com/embed/FqUeHzvci10?rel=0" savefrom_lm_index="0" savefrom_lm="1">Conditional Statements</a>
+  -<a href="https://www.youtube.com/embed/QOvo-xFL9II?rel=0" savefrom_lm_index="0" savefrom_lm="1">Loops</a>
+  -<a href="https://www.youtube.com/embed/lnYKOnz9ln8?rel=0" savefrom_lm_index="0" savefrom_lm="1">Command Line</a>
+   
 ## Problem Set 1
 
 [Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset1/hello)

@@ -19,7 +19,8 @@ title: week 6
   - <a href="https://cdn.cs50.net/2019/fall/lectures/6/src6/">Index</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/6/src6.pdf">PDF</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/6/src6.zip">Zip</a>
-
+- Shorts
+  - <a href="https://www.youtube.com/watch?v=mgBpcQRDtl0" savefrom_lm_index="0" savefrom_lm="1">Python</a>
 ## Problem Set 6
 
 [Hello](https://lab.cs50.io/Mohamed-Faroug/lab/main/pset6/hello)

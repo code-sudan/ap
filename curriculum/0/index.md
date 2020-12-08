@@ -19,7 +19,9 @@ title: Week 0
   - <a href="https://cdn.cs50.net/2019/fall/lectures/0/src0/">Index</a>
   - <a href="https://scratch.mit.edu/studios/25128634/">Studio</a>
   - <a href="https://cdn.cs50.net/2019/fall/lectures/0/src0.zip">Zip</a>
+  
 - [Problem Set 0](https://mohamed-faroug.github.io/ap/curriculum/0/pset0/)
+
 ## Problem Set 0 Review 
 <div class="box" >  <iframe src="https://www.youtube.com/embed/3Occxs_Uc-w"></iframe></div>
 <div class="box" >   <iframe src="https://www.youtube.com/embed/E0CKzsv_IzI"></iframe></div>
