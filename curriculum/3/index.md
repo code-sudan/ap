@@ -13,12 +13,12 @@ title: week 3
   - Preview
      [Week3 Review - Code_ Sudan Program](https://www.youtube.com/embed/2FkB-enZzrc)
 - Slides
-  - <a href="https://docs.google.com/presentation/d/1BPOm4VNOmlOLKzwOHPYR3FXEXLiJbOW3MSKdp1wMNnk/edit?usp=sharing">Google Slides</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/2/lecture2.pdf">PDF</a>
+  - <a href="https://docs.google.com/presentation/d/17eT9MaZBUByTTlpkliT8kTg7AW1820xMIQg0HDd5NCk/edit?usp=sharing">Google Slides</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/3/lecture3.pdf">PDF</a>
 - Source Code
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/2/src2/">Index</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/2/src2.pdf">PDF</a>
-  - <a href="https://cdn.cs50.net/2019/fall/lectures/2/src2.zip">Zip</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/3/src3/">Index</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/3/src23.pdf">PDF</a>
+  - <a href="https://cdn.cs50.net/2019/fall/lectures/3/src3.zip">Zip</a>
 
 ## Problem Set 3
 
